@@ -1,0 +1,23 @@
+{
+  "name": "privatetoaddress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "privateToAddress.js",
+  "dependencies": {
+    "ethereumjs-util": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianPHChen/privateToAddress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianPHChen/privateToAddress/issues"
+  },
+  "homepage": "https://github.com/BrianPHChen/privateToAddress#readme"
+}
